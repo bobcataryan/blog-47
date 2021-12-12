@@ -1,0 +1,30 @@
+.header{
+    color: white;
+    font-size: 25;
+    margin-top:0;
+    border-radius: 10px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.Info{
+    color:black;
+
+}
+
+canvas{
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+#footer{
+    margin-bottom: 0;
+    bottom:0;    
+    background-color: gray;
+    color: white;
+    position: fixed;
+    width: 100%;
+}
